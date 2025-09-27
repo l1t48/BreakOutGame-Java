@@ -1,0 +1,6 @@
+*.o
+lab
+*.log
+.git
+.gitignore
+README.md
